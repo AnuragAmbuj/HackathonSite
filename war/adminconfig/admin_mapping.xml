@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<adminconfig>
+    <admin>
+        <admin-id>1</admin-id>
+        <admin-name>Anurag Ambuj</admin-name>
+    </admin>
+    <admin>
+        <admin-id>2</admin-id>
+        <admin-name>Aditya Raj</admin-name>
+    </admin>
+    <admin>
+        <admin-id>3</admin-id>
+        <admin-name>Aditya Shankar Bannerjee</admin-name>
+    </admin>
+    <admin>
+        <admin-id>4</admin-id>
+        <admin-name>Pranjal Shubham</admin-name>
+    </admin>
+</adminconfig>
